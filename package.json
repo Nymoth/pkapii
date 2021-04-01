@@ -1,0 +1,26 @@
+{
+  "name": "pkapii",
+  "version": "1.0.0",
+  "description": "aaaaa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nymoth/pkapii.git"
+  },
+  "author": "Nymoth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nymoth/pkapii/issues"
+  },
+  "homepage": "https://github.com/Nymoth/pkapii#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5"
+  }
+}
